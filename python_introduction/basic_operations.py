@@ -8,3 +8,4 @@ multiplication_results = number1 * number2
 print("Addition of 10 and 5 is ", addition_results)
 print("Subtraction of 10 and 5 is ",  subtraction_results)
 print("Multiplication of 10 and 5 is ", multiplication_results)
+#work completed 

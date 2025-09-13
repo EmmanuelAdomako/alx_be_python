@@ -6,3 +6,4 @@ time = 3
 interest = principal * rate * time
 #printing the interest rate 
 print("The simple interest is:", interest)
+#work completed 

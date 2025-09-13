@@ -5,3 +5,4 @@ width = 5
 area = length * width
 #print the rectangle area
 print("The area of the rectangle is:", area)
+#work completed
