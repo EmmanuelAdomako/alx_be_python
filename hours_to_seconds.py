@@ -1,6 +1,3 @@
-#defining variables 
-hours = 2
-#defining seconds
-seconds = (60 * 60) * 2
-#printing output
-print("2 hour(s) is", seconds , "seconds.")
+hours = 2 #hours variable is assigned with value of 2
+seconds = (60 * 60) * 2 #seconds variable defined 
+print("2 hour(s) is", seconds , "seconds.") #printing output
